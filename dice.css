@@ -1,0 +1,53 @@
+body {
+    /* background-color: rgb(12, 12, 12); */
+    background: url(https://cdn.discordapp.com/attachments/993463957710962780/994258557727940708/unknown.png);
+    background-size: 100%;
+}
+
+.main {
+    background-color: azure;
+    width: 500px;
+    height: 340px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 7%;
+}
+
+.content {
+    color: black;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 100px;
+    text-align: center; 
+}
+
+.heading {
+    font-size: 50px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+}
+
+.player {
+    font-size: 18px;
+    font-family: Noto Sans, sans-serif;
+}
+.num {
+    font-size: 18px;
+    font-family: Noto Sans, sans-serif;
+}
+.curr_dice{
+    font-size: 18px;
+    font-family: Noto Sans, sans-serif;
+}
+
+.but1 {
+    font-size: 18px;
+    font-family: "Noto Sans", sans-serif;
+    border: none;
+    background-color: rgb(49, 47, 47);
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: aliceblue;
+}
